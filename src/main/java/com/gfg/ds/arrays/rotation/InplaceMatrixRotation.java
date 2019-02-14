@@ -1,4 +1,4 @@
-package com.gfg.ds.arrays;
+package com.gfg.ds.arrays.rotation;
 
 /**
  *
